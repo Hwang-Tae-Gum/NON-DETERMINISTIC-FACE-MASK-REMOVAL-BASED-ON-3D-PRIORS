@@ -111,7 +111,6 @@ visualize_results(n3d_model, generator, test_loader)
 * **PSNR:** Peak Signal-to-Noise Ratio (dB)
 * **SSIM:** Structural Similarity Index (0-1)
 * **FID Score:** Fréchet Inception Distance
-* **Identity Similarity:** Cosine similarity of ArcFace features
 
 ## Advantages over Existing Methods
 
